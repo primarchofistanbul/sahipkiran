@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Özellikler
-parent: Temel Kurallar
+parent: Temel
 nav_order: 3
 ---
