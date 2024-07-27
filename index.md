@@ -51,4 +51,3 @@ Oyun masanızın üzerinde bazı dekoratif öğeler bulundurmanız, oyununuzu da
 
 *Sahipkıran kuralları, temel olarak Warhammer Fantasy Battles 2. baskısının retro bir klonudur ve Warhammer 40,000'in ilk baskısıyla harmanlanmıştır. Ayrıca, Necromunda ve Mordheim oyunlarından da büyük ölçüde ilham alınmıştır. Bu kombinasyon, klasik masaüstü savaş oyunlarının ruhunu yaşatırken, yeni ve heyecan verici bir deneyim sunar.*
 
-`*Sahipkıran kuralları, temel olarak Warhammer Fantasy Battles 2. baskısının retro bir klonudur ve Warhammer 40,000'in ilk baskısıyla harmanlanmıştır. Ayrıca, Necromunda ve Mordheim oyunlarından da büyük ölçüde ilham alınmıştır. Bu kombinasyon, klasik masaüstü savaş oyunlarının ruhunu yaşatırken, yeni ve heyecan verici bir deneyim sunar.*`
