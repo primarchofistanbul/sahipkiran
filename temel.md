@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Temel Kurallar
-nav_order: 2
+nav_order: 1
 ---
 Temel Kurallar
